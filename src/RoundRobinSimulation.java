@@ -43,6 +43,6 @@ public class RoundRobinSimulation
         }
         Simulation s = new Simulation(p,timeQuantum);
         s.runRoundRobinSimulation();
-        System.out.println("***End***");
+        System.out.println("FINISHED");
     }
 }
